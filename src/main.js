@@ -1,4 +1,4 @@
 import './toggle-button.js';
 import * as FocusTimer from './FocusTimer/index.js';
 
-FocusTimer.start(25, 0);
+FocusTimer.start(0, 10);
